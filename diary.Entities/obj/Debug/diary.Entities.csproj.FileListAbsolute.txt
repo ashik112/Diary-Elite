@@ -1,0 +1,10 @@
+H:\DiaryElite\diary.Entities\bin\Debug\diary.Entities.dll
+H:\DiaryElite\diary.Entities\bin\Debug\diary.Entities.pdb
+H:\DiaryElite\diary.Entities\obj\Debug\diary.Entities.dll
+H:\DiaryElite\diary.Entities\obj\Debug\diary.Entities.pdb
+H:\DiaryElite\diary.Entities\obj\Debug\diary.Entities.csprojResolveAssemblyReference.cache
+D:\DiaryElite\DiaryElite\diary.Entities\bin\Debug\diary.Entities.dll
+D:\DiaryElite\DiaryElite\diary.Entities\bin\Debug\diary.Entities.pdb
+D:\DiaryElite\DiaryElite\diary.Entities\obj\Debug\diary.Entities.csprojResolveAssemblyReference.cache
+D:\DiaryElite\DiaryElite\diary.Entities\obj\Debug\diary.Entities.dll
+D:\DiaryElite\DiaryElite\diary.Entities\obj\Debug\diary.Entities.pdb
